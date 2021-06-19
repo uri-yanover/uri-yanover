@@ -1,10 +1,3 @@
-- 👋 Hi, I’m @uri-yanover
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-uri-yanover/uri-yanover is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👋 Hi, I’m Uri Yanover (@uri-yanover)
+- 👀 I’m interested in human beings, computers, computational immunology, history, home automation
+- 📫 Look for me at LinkedIn
