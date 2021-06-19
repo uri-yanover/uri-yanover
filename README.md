@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Uri Yanover (@uri-yanover)
 - 👀 I’m interested in human beings, computers, computational immunology, history, home automation.
 - 🏗️ What I do for living is building SW technology, organizations and everything in between.
-- 🚫 I don't work with recruiters of any kind. I only work with organizations that have a director+ that could articulate why they need me.
+- 🚫 I don't work with recruiters of any kind. I can afford to work only with organizations that have a director+ that's available to reach out to me in person.
 - 📫 You can get in touch with me through my [LinkedIn](https://www.linkedin.com/in/uri-yanover/)
